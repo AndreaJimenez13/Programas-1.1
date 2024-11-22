@@ -1,7 +1,8 @@
 Doc del programa 1.1
 Dentro de mis primeras lineas uso el # como simbolo de comentarios
 En mi siguiente linea de codigo se agrega una variable de tipo nombre donde se guardara lo que el usuario usando un print que pide los datos.
-en mi tercera linea con el print muestra un mensaje predeterminado donde se agrego tratando de dar la siguiente esctructura para que en pantalla lo muestre 
+en mi tercera linea con el print muestra un mensaje predeterminado donde se agrego tratando de dar la siguiente esctructura 
+para que en pantalla lo muestre 
 que la estructura logica es mostrar "Mensaje del print" la coma es un + la variable donde almaceno la informacion 
 en seguida volver a mostrar todo junto con un "Que bonito es tu nombre"
 esto seria un ejemplo implicito de mi codigo
